@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.my-button {
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+    background: lightgreen;
+    margin: 100px 0px;
+}
+
+.my-button:hover {
+    cursor: pointer;
+}
